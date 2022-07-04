@@ -1,5 +1,4 @@
 import requests
-import os
 
 from pprint import pprint
 from my_token import TOKEN
